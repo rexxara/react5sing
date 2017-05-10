@@ -1,0 +1,1422 @@
+{
+    "message": "",
+    "success": true,
+    "data": [
+        {
+            "ID": 840867,
+            "SN": "致十年前到现在一直治愈我的陈医生",
+            "FN": "http://data6.5sing.kgimg.com/T1nh_bByLT1R47IVrK.mp3",
+            "SK": "yc",
+            "UID": 840867,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 1905388,
+                "NN": "文化露",
+                "I": "http://img10.5sing.kgimg.com/force/T1A2JmBy_T1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 842133,
+            "SN": "我们仍未知道那天看见的花的名字",
+            "FN": "http://data1.5sing.kgimg.com/T1WQDbByhT1R47IVrK.mp3",
+            "SK": "yc",
+            "UID": 842133,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 1905388,
+                "NN": "文化露",
+                "I": "http://img10.5sing.kgimg.com/force/T1A2JmBy_T1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 3282979,
+            "SN": "白",
+            "FN": "http://data.5sing.kgimg.com/G091/M01/0A/13/O5QEAFijDQSAYH8MAKGz69wo3JA071.mp3",
+            "SK": "yc",
+            "UID": 3282979,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 1905388,
+                "NN": "文化露",
+                "I": "http://img10.5sing.kgimg.com/force/T1A2JmBy_T1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 3279694,
+            "SN": "年轮",
+            "FN": "http://data.5sing.kgimg.com/G086/M00/12/0B/NpQEAFic992ATnyfAKsg_O9sPrs501.mp3",
+            "SK": "yc",
+            "UID": 3279694,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 1905388,
+                "NN": "文化露",
+                "I": "http://img10.5sing.kgimg.com/force/T1A2JmBy_T1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 3272228,
+            "SN": "绝对废柴的大革命",
+            "FN": "http://data.5sing.kgimg.com/G084/M03/07/03/9IYBAFiKF1-AWWlHAGeIKkp-y1I865.mp3",
+            "SK": "yc",
+            "UID": 3272228,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 1905388,
+                "NN": "文化露",
+                "I": "http://img10.5sing.kgimg.com/force/T1A2JmBy_T1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 3245983,
+            "SN": "追忆之年",
+            "FN": "http://data.5sing.kgimg.com/G082/M0A/09/15/8oYBAFhVv2eAB-ebAS6PFcvhiVk745.mp3",
+            "SK": "yc",
+            "UID": 3245983,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 1905388,
+                "NN": "文化露",
+                "I": "http://img10.5sing.kgimg.com/force/T1A2JmBy_T1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 15608796,
+            "SN": "226.前前前世",
+            "FN": "http://data.5sing.kgimg.com/G082/M00/17/1D/8oYBAFhCy3eAJYgpAKuq73Cayus746.mp3",
+            "SK": "fc",
+            "UID": 15608796,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 529174,
+                "NN": "祈Inory",
+                "I": "http://img1.5sing.kgimg.com/force/T1mPd_B7Wg1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 3226518,
+            "SN": "末日前最后的歌",
+            "FN": "http://data.5sing.kgimg.com/G082/M08/0F/1B/MpQEAFgty52AIwMFAMBx7GTmxzY694.mp3",
+            "SK": "yc",
+            "UID": 3226518,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 1905388,
+                "NN": "文化露",
+                "I": "http://img10.5sing.kgimg.com/force/T1A2JmBy_T1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 13719247,
+            "SN": "【大合唱】巡礼之年",
+            "FN": "http://data5.5sing.kgimg.com/T1xeCKB4KT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 13719247,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 16045953,
+                "NN": "貌美如花的鸦青",
+                "I": "http://img1.5sing.kgimg.com/force/T1rvDUBXWT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 13893107,
+            "SN": "阴阳先生",
+            "FN": "http://data1.5sing.kgimg.com/T1.8YPBCLT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 13893107,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 24049767,
+                "NN": "井一_松江府人",
+                "I": "http://img10.5sing.kgimg.com/force/T1cZYsBXJT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 14354051,
+            "SN": "【弥与三畿道】弥【国人原创曲】",
+            "FN": "http://data1.5sing.kgimg.com/T14CDvB4KT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 14354051,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 11385929,
+                "NN": "三畿道",
+                "I": "http://img2.5sing.kgimg.com/force/T1jZ_nB4YT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 2747912,
+            "SN": "青",
+            "FN": "http://data2.5sing.kgimg.com/T1jOYnBXbT1R47IVrK.mp3",
+            "SK": "yc",
+            "UID": 2747912,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 1905388,
+                "NN": "文化露",
+                "I": "http://img10.5sing.kgimg.com/force/T1A2JmBy_T1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 14311260,
+            "SN": "【吻吻吻】吻你吻得太逼真",
+            "FN": "http://data.5sing.kgimg.com/G033/M05/0C/19/YQ0DAFXm68SAFPkgAIyygN2KLq8118.mp3",
+            "SK": "fc",
+            "UID": 14311260,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 22553671,
+                "NN": "封茗囧菌",
+                "I": "http://img6.5sing.kgimg.com/force/T1rTh7BKCT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 13478631,
+            "SN": "【暖男呦】有何不可？w",
+            "FN": "http://data.5sing.kgimg.com/G033/M08/06/03/wYYBAFXtEUCASYo-AJKOijRWOpY676.mp3",
+            "SK": "fc",
+            "UID": 13478631,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 22553671,
+                "NN": "封茗囧菌",
+                "I": "http://img6.5sing.kgimg.com/force/T1rTh7BKCT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 13172828,
+            "SN": "【巴扎黑】他一定很爱你",
+            "FN": "http://data.5sing.kgimg.com/G037/M09/14/14/xYYBAFX3wfuANq6HAH8PvcdV0P8343.mp3",
+            "SK": "fc",
+            "UID": 13172828,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 22553671,
+                "NN": "封茗囧菌",
+                "I": "http://img6.5sing.kgimg.com/force/T1rTh7BKCT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 14281863,
+            "SN": "【小公举】自导自演",
+            "FN": "http://data.5sing.kgimg.com/G041/M03/0A/00/aQ0DAFXwJ3-AcoKjAKtLfiWTNjI185.mp3",
+            "SK": "fc",
+            "UID": 14281863,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 22553671,
+                "NN": "封茗囧菌",
+                "I": "http://img6.5sing.kgimg.com/force/T1rTh7BKCT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 12395057,
+            "SN": "【凯源版】洋葱(ft.H.MANJU",
+            "FN": "http://data.5sing.kgimg.com/G035/M02/0A/01/Yw0DAFXhIiCAc852AKlwbeHwolg291.mp3",
+            "SK": "fc",
+            "UID": 12395057,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 22553671,
+                "NN": "封茗囧菌",
+                "I": "http://img6.5sing.kgimg.com/force/T1rTh7BKCT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 1822444,
+            "SN": "那些小事其实不叫爱情",
+            "FN": "http://data10.5sing.kgimg.com/T1nqhKBydT1R47IVrK.mp3",
+            "SK": "yc",
+            "UID": 1822444,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 1905388,
+                "NN": "文化露",
+                "I": "http://img10.5sing.kgimg.com/force/T1A2JmBy_T1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 2230771,
+            "SN": "弥歌",
+            "FN": "http://data6.5sing.kgimg.com/T1yrDPByDT1R47IVrK.mp3",
+            "SK": "yc",
+            "UID": 2230771,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 1905388,
+                "NN": "文化露",
+                "I": "http://img10.5sing.kgimg.com/force/T1A2JmBy_T1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 13923583,
+            "SN": "【囧菌FT?RX】快乐崇拜",
+            "FN": "http://data.5sing.kgimg.com/G030/M06/19/08/voYBAFXlehyAI6GeAFH-f9Md0ic543.mp3",
+            "SK": "fc",
+            "UID": 13923583,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 22553671,
+                "NN": "封茗囧菌",
+                "I": "http://img6.5sing.kgimg.com/force/T1rTh7BKCT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 8105932,
+            "SN": "【无节操】不管谁都好，请跟我交往！",
+            "FN": "http://data6.5sing.kgimg.com/T12SJmByYT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 8105932,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 10711422,
+                "NN": "东京塔",
+                "I": "http://img1.5sing.kgimg.com/force/T1UsCeBXKT1R4cSCrK.png"
+            }
+        },
+        {
+            "ID": 2480069,
+            "SN": "巡礼之年",
+            "FN": "http://data5.5sing.kgimg.com/T1t6KTBXWT1R47IVrK.mp3",
+            "SK": "yc",
+            "UID": 2480069,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 1905388,
+                "NN": "文化露",
+                "I": "http://img10.5sing.kgimg.com/force/T1A2JmBy_T1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 1865214,
+            "SN": "爱忘",
+            "FN": "http://data1.5sing.kgimg.com/T118E7BXZT1R47IVrK.mp3",
+            "SK": "yc",
+            "UID": 1865214,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 1905388,
+                "NN": "文化露",
+                "I": "http://img10.5sing.kgimg.com/force/T1A2JmBy_T1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 13481061,
+            "SN": "这里是、幸福安心委员会。",
+            "FN": "http://data1.5sing.kgimg.com/T1XAdnByVT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 13481061,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 10711422,
+                "NN": "东京塔",
+                "I": "http://img1.5sing.kgimg.com/force/T1UsCeBXKT1R4cSCrK.png"
+            }
+        },
+        {
+            "ID": 753472,
+            "SN": "那朵花ED中文翻唱钢琴版",
+            "FN": "http://data6.5sing.kgimg.com/T1nIKbBXhT1R47IVrK.mp3",
+            "SK": "yc",
+            "UID": 753472,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 1905388,
+                "NN": "文化露",
+                "I": "http://img10.5sing.kgimg.com/force/T1A2JmBy_T1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 13643799,
+            "SN": "【寄生兽OP】Let me hear(小团纸后期(有黑嗓？",
+            "FN": "http://data.5sing.kgimg.com/G047/M06/0A/0F/D5QEAFX8Pz6AJpa-ADfWHFVGDJc076.mp3",
+            "SK": "fc",
+            "UID": 13643799,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 22553671,
+                "NN": "封茗囧菌",
+                "I": "http://img6.5sing.kgimg.com/force/T1rTh7BKCT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 840830,
+            "SN": "只有神知道的世界",
+            "FN": "http://data1.5sing.kgimg.com/T13QEbByCT1R47IVrK.mp3",
+            "SK": "yc",
+            "UID": 840830,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 1905388,
+                "NN": "文化露",
+                "I": "http://img10.5sing.kgimg.com/force/T1A2JmBy_T1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 13130407,
+            "SN": "【没钱了】不潮不花钱ε-(′?｀;)",
+            "FN": "http://data.5sing.kgimg.com/G049/M00/18/05/EZQEAFX2niWACof9AI0q7ZMYpws576.mp3",
+            "SK": "fc",
+            "UID": 13130407,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 22553671,
+                "NN": "封茗囧菌",
+                "I": "http://img6.5sing.kgimg.com/force/T1rTh7BKCT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 2808608,
+            "SN": "弥",
+            "FN": "http://data8.5sing.kgimg.com/T1wxJTB4ET1R47IVrK.mp3",
+            "SK": "yc",
+            "UID": 2808608,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 1905388,
+                "NN": "文化露",
+                "I": "http://img10.5sing.kgimg.com/force/T1A2JmBy_T1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 12659773,
+            "SN": "【小黄曲】Booty Music",
+            "FN": "http://data.5sing.kgimg.com/G033/M04/13/0D/YQ0DAFXvX1OAVI1LAGzALSlt6Ro251.mp3",
+            "SK": "fc",
+            "UID": 12659773,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 22553671,
+                "NN": "封茗囧菌",
+                "I": "http://img6.5sing.kgimg.com/force/T1rTh7BKCT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 2758491,
+            "SN": "女人三十",
+            "FN": "http://data9.5sing.kgimg.com/T1icD7BCdT1R47IVrK.mp3",
+            "SK": "yc",
+            "UID": 2758491,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 1905388,
+                "NN": "文化露",
+                "I": "http://img10.5sing.kgimg.com/force/T1A2JmBy_T1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 14101789,
+            "SN": "【TO sionsion】See you again（=3=阿姨洗铁路",
+            "FN": "http://data.5sing.kgimg.com/G043/M01/09/01/y4YBAFXzVEGAIKkfAI8kvgpbJTI359.mp3",
+            "SK": "fc",
+            "UID": 14101789,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 22553671,
+                "NN": "封茗囧菌",
+                "I": "http://img6.5sing.kgimg.com/force/T1rTh7BKCT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 14105458,
+            "SN": "【切克闹】东京不太热",
+            "FN": "http://data.5sing.kgimg.com/G034/M06/11/1F/Yg0DAFXnl72ASilnAIxG42qiW1M151.mp3",
+            "SK": "fc",
+            "UID": 14105458,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 22553671,
+                "NN": "封茗囧菌",
+                "I": "http://img6.5sing.kgimg.com/force/T1rTh7BKCT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 14010087,
+            "SN": "【普通的】Disco",
+            "FN": "http://data.5sing.kgimg.com/G033/M03/1E/11/YQ0DAFX0HhGATmAlAH4kra8MGKc055.mp3",
+            "SK": "fc",
+            "UID": 14010087,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 22553671,
+                "NN": "封茗囧菌",
+                "I": "http://img6.5sing.kgimg.com/force/T1rTh7BKCT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 2674179,
+            "SN": "弥INST",
+            "FN": "http://data1.5sing.kgimg.com/T1rxhTB4ET1R47IVrK.mp3",
+            "SK": "bz",
+            "UID": 2674179,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 1905388,
+                "NN": "文化露",
+                "I": "http://img10.5sing.kgimg.com/force/T1A2JmBy_T1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 12284646,
+            "SN": "【巴扎嘿】海绵宝宝",
+            "FN": "http://data.5sing.kgimg.com/G030/M07/1B/1F/voYBAFXsp9iAe3BDAH9W7bJNj4E017.mp3",
+            "SK": "fc",
+            "UID": 12284646,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 22553671,
+                "NN": "封茗囧菌",
+                "I": "http://img6.5sing.kgimg.com/force/T1rTh7BKCT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 13429033,
+            "SN": "【有娇喘？！】Run Devil Run（Ke$ha Ver.",
+            "FN": "http://data.5sing.kgimg.com/G047/M00/08/17/bw0DAFX2b1GAVwEWAHoppOZyTUE289.mp3",
+            "SK": "fc",
+            "UID": 13429033,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 22553671,
+                "NN": "封茗囧菌",
+                "I": "http://img6.5sing.kgimg.com/force/T1rTh7BKCT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 7953722,
+            "SN": "没那么简单°脱团版",
+            "FN": "http://data9.5sing.kgimg.com/T105VmBXJT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 7953722,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 830630,
+                "NN": "千夏酱w",
+                "I": "http://img8.5sing.kgimg.com/force/T1.rbLByKT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 13921223,
+            "SN": "『英翻』If I Die Young",
+            "FN": "http://data.5sing.kgimg.com/G033/M08/0D/17/AZQEAFX46c6ASDpVAI6MplhCeG0016.mp3",
+            "SK": "fc",
+            "UID": 13921223,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 20399888,
+                "NN": "砒大霜",
+                "I": "http://img2.5sing.kgimg.com/force/T1m7LaBmAT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 14051577,
+            "SN": "【钢琴英文版】Bad Apple",
+            "FN": "http://data.5sing.kgimg.com/G042/M01/1C/07/CpQEAFX2U2WAO0d3AEiIUoLwZI4086.mp3",
+            "SK": "fc",
+            "UID": 14051577,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 22553671,
+                "NN": "封茗囧菌",
+                "I": "http://img6.5sing.kgimg.com/force/T1rTh7BKCT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 1628449,
+            "SN": "歌名未闻",
+            "FN": "http://data8.5sing.kgimg.com/T1TvJ5ByDT1R47IVrK.mp3",
+            "SK": "yc",
+            "UID": 1628449,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 9812224,
+                "NN": "Razorback_",
+                "I": "http://img6.5sing.kgimg.com/force/T1qeYXBXWT1R4n9VrK.gif"
+            }
+        },
+        {
+            "ID": 10494719,
+            "SN": "分手快乐！！！！！°",
+            "FN": "http://data10.5sing.kgimg.com/T1ibx7BXYT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 10494719,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 830630,
+                "NN": "千夏酱w",
+                "I": "http://img8.5sing.kgimg.com/force/T1.rbLByKT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 840826,
+            "SN": "昭君怨",
+            "FN": "http://data7.5sing.kgimg.com/T1QQJbByDT1R47IVrK.mp3",
+            "SK": "yc",
+            "UID": 840826,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 1905388,
+                "NN": "文化露",
+                "I": "http://img10.5sing.kgimg.com/force/T1A2JmBy_T1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 13412862,
+            "SN": "【唉唉唉】自作多情",
+            "FN": "http://data.5sing.kgimg.com/G041/M09/1C/13/CZQEAFXyc9eAPgX2ADV-DCumMfc691.mp3",
+            "SK": "fc",
+            "UID": 13412862,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 22553671,
+                "NN": "封茗囧菌",
+                "I": "http://img6.5sing.kgimg.com/force/T1rTh7BKCT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 9526230,
+            "SN": "突然好想你From AC°",
+            "FN": "http://data2.5sing.kgimg.com/T1VwbKByDT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 9526230,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 830630,
+                "NN": "千夏酱w",
+                "I": "http://img8.5sing.kgimg.com/force/T1.rbLByKT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 12189459,
+            "SN": "【吉他版】妄想税(降调惹OAO)",
+            "FN": "http://data.5sing.kgimg.com/G049/M01/16/17/EZQEAFX3rraANYKXAJpsvb5lvLw366.mp3",
+            "SK": "fc",
+            "UID": 12189459,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 22553671,
+                "NN": "封茗囧菌",
+                "I": "http://img6.5sing.kgimg.com/force/T1rTh7BKCT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 5908719,
+            "SN": "因为爱情°Feat W.K",
+            "FN": "http://data6.5sing.kgimg.com/T1jqLyBydT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 5908719,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 830630,
+                "NN": "千夏酱w",
+                "I": "http://img8.5sing.kgimg.com/force/T1.rbLByKT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 9688654,
+            "SN": "【5月生贺】要不要突然去掀女神们的裙子呢",
+            "FN": "http://data1.5sing.kgimg.com/T13idKB4KT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 9688654,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 10711422,
+                "NN": "东京塔",
+                "I": "http://img1.5sing.kgimg.com/force/T1UsCeBXKT1R4cSCrK.png"
+            }
+        },
+        {
+            "ID": 13452852,
+            "SN": "【慢摇版】爱丫爱丫OvO",
+            "FN": "http://data.5sing.kgimg.com/G034/M08/14/03/woYBAFXruNiADysyAHjOtAJlzOg665.mp3",
+            "SK": "fc",
+            "UID": 13452852,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 22553671,
+                "NN": "封茗囧菌",
+                "I": "http://img6.5sing.kgimg.com/force/T1rTh7BKCT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 4597348,
+            "SN": "至少还有你°To My Friends.",
+            "FN": "http://data9.5sing.kgimg.com/T1XeEsBXZT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 4597348,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 830630,
+                "NN": "千夏酱w",
+                "I": "http://img8.5sing.kgimg.com/force/T1.rbLByKT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 14219969,
+            "SN": "普通DISCO",
+            "FN": "http://data3.5sing.kgimg.com/T1hRhvB4WT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 14219969,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 398772,
+                "NN": "乌拉喵",
+                "I": "http://img4.5sing.kgimg.com/force/T1lUxnBXVT1R4cSCrK.png"
+            }
+        },
+        {
+            "ID": 13557995,
+            "SN": "Just be friends_piano ver.",
+            "FN": "http://data2.5sing.kgimg.com/T1SLE4B4JT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 13557995,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 10711422,
+                "NN": "东京塔",
+                "I": "http://img1.5sing.kgimg.com/force/T1UsCeBXKT1R4cSCrK.png"
+            }
+        },
+        {
+            "ID": 12595201,
+            "SN": "【茶叶蛋】心疼你的心疼",
+            "FN": "http://data.5sing.kgimg.com/G047/M0A/04/01/z4YBAFX8Md2Aen6NAJJVUj2Ky9s724.mp3",
+            "SK": "fc",
+            "UID": 12595201,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 22553671,
+                "NN": "封茗囧菌",
+                "I": "http://img6.5sing.kgimg.com/force/T1rTh7BKCT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 13412847,
+            "SN": "【月刊少女OP】君じゃなきゃダメみたい",
+            "FN": "http://data.5sing.kgimg.com/G031/M04/1C/07/_5MEAFX615OAOM8WADGFubf20dE742.mp3",
+            "SK": "fc",
+            "UID": 13412847,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 22553671,
+                "NN": "封茗囧菌",
+                "I": "http://img6.5sing.kgimg.com/force/T1rTh7BKCT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 12352696,
+            "SN": "【小吒吒】写给父亲（十万个冷笑话）",
+            "FN": "http://data.5sing.kgimg.com/G039/M00/0B/00/x4YBAFXxdxiADmjgAHXRbTYXE-w565.mp3",
+            "SK": "fc",
+            "UID": 12352696,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 22553671,
+                "NN": "封茗囧菌",
+                "I": "http://img6.5sing.kgimg.com/force/T1rTh7BKCT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 6487908,
+            "SN": "稻香°",
+            "FN": "http://data7.5sing.kgimg.com/T1akZCBy_T1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 6487908,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 830630,
+                "NN": "千夏酱w",
+                "I": "http://img8.5sing.kgimg.com/force/T1.rbLByKT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 12139302,
+            "SN": "【sad story】对不起 我只是个宅男",
+            "FN": "http://data.5sing.kgimg.com/G031/M05/04/15/v4YBAFXteSyAX6mhAIh_Byt8uoI538.mp3",
+            "SK": "fc",
+            "UID": 12139302,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 22553671,
+                "NN": "封茗囧菌",
+                "I": "http://img6.5sing.kgimg.com/force/T1rTh7BKCT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 13773248,
+            "SN": "【病娇音】威风堂々x独りんぼエンヴィー（Dubstep",
+            "FN": "http://data.5sing.kgimg.com/G033/M07/02/1B/wYYBAFXl4lGASaQVAI2Gxk3ctfo292.mp3",
+            "SK": "fc",
+            "UID": 13773248,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 22553671,
+                "NN": "封茗囧菌",
+                "I": "http://img6.5sing.kgimg.com/force/T1rTh7BKCT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 1537142,
+            "SN": "致十二年前到现在一直治愈我的陈医生【重制版】",
+            "FN": "http://data1.5sing.kgimg.com/T1erJmByVT1R47IVrK.mp3",
+            "SK": "yc",
+            "UID": 1537142,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 1905388,
+                "NN": "文化露",
+                "I": "http://img10.5sing.kgimg.com/force/T1A2JmBy_T1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 13557029,
+            "SN": "【TO小嫩草】Mine Mine_(:3 」∠)_（我的渣填词w",
+            "FN": "http://data.5sing.kgimg.com/G032/M0A/14/09/wIYBAFXsVuaAUxr_AGjxinKE5H0007.mp3",
+            "SK": "fc",
+            "UID": 13557029,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 22553671,
+                "NN": "封茗囧菌",
+                "I": "http://img6.5sing.kgimg.com/force/T1rTh7BKCT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 14123281,
+            "SN": "【诶诶诶】做一个默默无闻的普通人是一种怎样的体验",
+            "FN": "http://data.5sing.kgimg.com/G035/M06/0C/01/w4YBAFXlzP-AeM-iAJARSjxUY6g819.mp3",
+            "SK": "fc",
+            "UID": 14123281,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 22553671,
+                "NN": "封茗囧菌",
+                "I": "http://img6.5sing.kgimg.com/force/T1rTh7BKCT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 2299202,
+            "SN": "巡礼之年",
+            "FN": "http://data5.5sing.kgimg.com/T1t6KTBXWT1R47IVrK.mp3",
+            "SK": "yc",
+            "UID": 2299202,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 9812224,
+                "NN": "Razorback_",
+                "I": "http://img6.5sing.kgimg.com/force/T1qeYXBXWT1R4n9VrK.gif"
+            }
+        },
+        {
+            "ID": 14026941,
+            "SN": "【嘿嘿嘿】=L=献给未来的丈♂夫",
+            "FN": "http://data.5sing.kgimg.com/G038/M03/08/00/BpQEAFX0G9-ATtotAG7U4TBKB0M920.mp3",
+            "SK": "fc",
+            "UID": 14026941,
+            "ST": 1,
+            "DD": -1,
+            "user": {
+                "ID": 22553671,
+                "NN": "封茗囧菌",
+                "I": "http://img6.5sing.kgimg.com/force/T1rTh7BKCT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 7911131,
+            "SN": "【节日快乐】欠我一炮",
+            "FN": "http://data6.5sing.kgimg.com/T1xZAmByLT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 7911131,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 398772,
+                "NN": "乌拉喵",
+                "I": "http://img4.5sing.kgimg.com/force/T1lUxnBXVT1R4cSCrK.png"
+            }
+        },
+        {
+            "ID": 2299217,
+            "SN": "巡礼之年Vocal",
+            "FN": "http://data2.5sing.kgimg.com/T15OdTByCT1R47IVrK.mp3",
+            "SK": "yc",
+            "UID": 2299217,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 9812224,
+                "NN": "Razorback_",
+                "I": "http://img6.5sing.kgimg.com/force/T1qeYXBXWT1R4n9VrK.gif"
+            }
+        },
+        {
+            "ID": 9998920,
+            "SN": "[中翻]吉原哀歌",
+            "FN": "http://data8.5sing.kgimg.com/T1dCV7BXLT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 9998920,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 24049767,
+                "NN": "井一_松江府人",
+                "I": "http://img10.5sing.kgimg.com/force/T1cZYsBXJT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 11054971,
+            "SN": "love the way you lie【练习】",
+            "FN": "http://data7.5sing.kgimg.com/T1i3EeBy_T1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 11054971,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 3611537,
+                "NN": "小缘喵",
+                "I": "http://img6.5sing.kgimg.com/force/T1NRZeB4ZT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 13898610,
+            "SN": "克罗地亚狂想曲（再战）",
+            "FN": "http://data9.5sing.kgimg.com/T12UW7BCZT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 13898610,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 1923131,
+                "NN": "少年霜",
+                "I": "http://img4.5sing.kgimg.com/force/T1UTKwByAT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 13841838,
+            "SN": "没有如果",
+            "FN": "http://data10.5sing.kgimg.com/T1TUxnBXCT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 13841838,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 1923131,
+                "NN": "少年霜",
+                "I": "http://img4.5sing.kgimg.com/force/T1UTKwByAT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 9407716,
+            "SN": "Lost one 的号哭 和声菌",
+            "FN": "http://data3.5sing.kgimg.com/T1r2xKBXhT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 9407716,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 1923131,
+                "NN": "少年霜",
+                "I": "http://img4.5sing.kgimg.com/force/T1UTKwByAT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 3515090,
+            "SN": "花开OP tv size",
+            "FN": "http://data6.5sing.kgimg.com/T1bUbbByYT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 3515090,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 3611537,
+                "NN": "小缘喵",
+                "I": "http://img6.5sing.kgimg.com/force/T1NRZeB4ZT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 14037014,
+            "SN": "洋葱",
+            "FN": "http://data6.5sing.kgimg.com/T1VbhTByAT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 14037014,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 3611537,
+                "NN": "小缘喵",
+                "I": "http://img6.5sing.kgimg.com/force/T1NRZeB4ZT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 14279728,
+            "SN": "190.残酷な天使のテーゼ",
+            "FN": "http://data1.5sing.kgimg.com/T1PkVvByJT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 14279728,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 529174,
+                "NN": "祈Inory",
+                "I": "http://img1.5sing.kgimg.com/force/T1mPd_B7Wg1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 14021281,
+            "SN": "195.普通的日文DISCO",
+            "FN": "http://data9.5sing.kgimg.com/T1hSdeB4LT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 14021281,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 529174,
+                "NN": "祈Inory",
+                "I": "http://img1.5sing.kgimg.com/force/T1mPd_B7Wg1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 3190158,
+            "SN": "素颜",
+            "FN": "http://data4.5sing.kgimg.com/T1HPbbByVT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 3190158,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 3611537,
+                "NN": "小缘喵",
+                "I": "http://img6.5sing.kgimg.com/force/T1NRZeB4ZT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 13888835,
+            "SN": "愛言葉",
+            "FN": "http://data5.5sing.kgimg.com/T1pkYnB4DT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 13888835,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 3611537,
+                "NN": "小缘喵",
+                "I": "http://img6.5sing.kgimg.com/force/T1NRZeB4ZT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 14000210,
+            "SN": "普通disco",
+            "FN": "http://data5.5sing.kgimg.com/T1WU_nB4YT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 14000210,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 24049767,
+                "NN": "井一_松江府人",
+                "I": "http://img10.5sing.kgimg.com/force/T1cZYsBXJT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 13879907,
+            "SN": "【流月x祈Inory】《IGNITE》【马云我赐你姨妈】",
+            "FN": "http://data3.5sing.kgimg.com/T1DpY7BCDT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 13879907,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 529174,
+                "NN": "祈Inory",
+                "I": "http://img1.5sing.kgimg.com/force/T1mPd_B7Wg1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 11027300,
+            "SN": "[中翻] 妄想税",
+            "FN": "http://data10.5sing.kgimg.com/T1sjLeByhT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 11027300,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 24049767,
+                "NN": "井一_松江府人",
+                "I": "http://img10.5sing.kgimg.com/force/T1cZYsBXJT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 11120850,
+            "SN": "洗剪吹",
+            "FN": "http://data3.5sing.kgimg.com/T1rRxPByJT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 11120850,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 1923131,
+                "NN": "少年霜",
+                "I": "http://img4.5sing.kgimg.com/force/T1UTKwByAT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 13868657,
+            "SN": "我还没有男朋友",
+            "FN": "http://data4.5sing.kgimg.com/T1pIdKB5xT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 13868657,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 3611537,
+                "NN": "小缘喵",
+                "I": "http://img6.5sing.kgimg.com/force/T1NRZeB4ZT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 11573951,
+            "SN": "捆绑PLAY",
+            "FN": "http://data2.5sing.kgimg.com/T13nYPBXDT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 11573951,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 24049767,
+                "NN": "井一_松江府人",
+                "I": "http://img10.5sing.kgimg.com/force/T1cZYsBXJT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 13401233,
+            "SN": "unravel",
+            "FN": "http://data3.5sing.kgimg.com/T13NhyBXDT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 13401233,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 3611537,
+                "NN": "小缘喵",
+                "I": "http://img6.5sing.kgimg.com/force/T1NRZeB4ZT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 7230246,
+            "SN": "【DOTA】Ancient Battle",
+            "FN": "http://data9.5sing.kgimg.com/T1FFx4ByJT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 7230246,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 1923131,
+                "NN": "少年霜",
+                "I": "http://img4.5sing.kgimg.com/force/T1UTKwByAT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 6477530,
+            "SN": "irony  [guitar ver.]",
+            "FN": "http://data5.5sing.kgimg.com/T1kEZCByhT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 6477530,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 3611537,
+                "NN": "小缘喵",
+                "I": "http://img6.5sing.kgimg.com/force/T1NRZeB4ZT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 7488571,
+            "SN": "寄广大“爱国青年”",
+            "FN": "http://data4.5sing.kgimg.com/T1Hgb4ByZT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 7488571,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 1923131,
+                "NN": "少年霜",
+                "I": "http://img4.5sing.kgimg.com/force/T1UTKwByAT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 12578192,
+            "SN": "letter song",
+            "FN": "http://data9.5sing.kgimg.com/T1k6YLBXJT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 12578192,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 3611537,
+                "NN": "小缘喵",
+                "I": "http://img6.5sing.kgimg.com/force/T1NRZeB4ZT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 1979168,
+            "SN": "【小缘☆渣翻唱】Rainbow Girl",
+            "FN": "http://data2.5sing.kgimg.com/T147YXBXJT1R4hJZrK.wma",
+            "SK": "fc",
+            "UID": 1979168,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 3611537,
+                "NN": "小缘喵",
+                "I": "http://img6.5sing.kgimg.com/force/T1NRZeB4ZT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 11354380,
+            "SN": "[中翻] 虎视眈眈",
+            "FN": "http://data6.5sing.kgimg.com/T1Q5WPByAT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 11354380,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 24049767,
+                "NN": "井一_松江府人",
+                "I": "http://img10.5sing.kgimg.com/force/T1cZYsBXJT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 8216045,
+            "SN": "【工口慎入】威风堂堂",
+            "FN": "http://data3.5sing.kgimg.com/T1nhWmByxT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 8216045,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 3611537,
+                "NN": "小缘喵",
+                "I": "http://img6.5sing.kgimg.com/force/T1NRZeB4ZT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 13652061,
+            "SN": "匆匆那年",
+            "FN": "http://data1.5sing.kgimg.com/T1ieC4BCYT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 13652061,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 24049767,
+                "NN": "井一_松江府人",
+                "I": "http://img10.5sing.kgimg.com/force/T1cZYsBXJT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 9072137,
+            "SN": "威风堂堂 和声菌",
+            "FN": "http://data10.5sing.kgimg.com/T1HB_5ByVT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 9072137,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 1923131,
+                "NN": "少年霜",
+                "I": "http://img4.5sing.kgimg.com/force/T1UTKwByAT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 7834681,
+            "SN": "Oblivious ft. 弦歌",
+            "FN": "http://data1.5sing.kgimg.com/T1uzdmBXYT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 7834681,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 1923131,
+                "NN": "少年霜",
+                "I": "http://img4.5sing.kgimg.com/force/T1UTKwByAT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 11272814,
+            "SN": "**日了...（真·治愈向）",
+            "FN": "http://data5.5sing.kgimg.com/T1_4bPByAT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 11272814,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 24049767,
+                "NN": "井一_松江府人",
+                "I": "http://img10.5sing.kgimg.com/force/T1cZYsBXJT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 11127137,
+            "SN": "[中翻]only my railgun",
+            "FN": "http://data5.5sing.kgimg.com/T1fqdeB4ET1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 11127137,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 24049767,
+                "NN": "井一_松江府人",
+                "I": "http://img10.5sing.kgimg.com/force/T1cZYsBXJT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 14078060,
+            "SN": "beautiful world",
+            "FN": "http://data1.5sing.kgimg.com/T1XYbTByVT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 14078060,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 3611537,
+                "NN": "小缘喵",
+                "I": "http://img6.5sing.kgimg.com/force/T1NRZeB4ZT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 13964050,
+            "SN": "194.世界は恋に落ちている/我的世界已坠入爱河",
+            "FN": "http://data3.5sing.kgimg.com/T1nBb7BCET1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 13964050,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 529174,
+                "NN": "祈Inory",
+                "I": "http://img1.5sing.kgimg.com/force/T1mPd_B7Wg1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 9526129,
+            "SN": "He says jump,I say f*ck you",
+            "FN": "http://data3.5sing.kgimg.com/T1NIEKB4YT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 9526129,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 24049767,
+                "NN": "井一_松江府人",
+                "I": "http://img10.5sing.kgimg.com/force/T1cZYsBXJT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 12595041,
+            "SN": "妄想税   feat 乌拉喵",
+            "FN": "http://data8.5sing.kgimg.com/T1LOZLByAT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 12595041,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 1747546,
+                "NN": "ophelly",
+                "I": "http://img3.5sing.kgimg.com/force/T1lPh_BTZT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 3275657,
+            "SN": "[残酷な天使のテーゼ]这是被ASL燃掉了的某人",
+            "FN": "http://data3.5sing.kgimg.com/T1.ibbBXET1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 3275657,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 1747546,
+                "NN": "ophelly",
+                "I": "http://img3.5sing.kgimg.com/force/T1lPh_BTZT1RXrhCrK.jpg"
+            }
+        },
+        {
+            "ID": 3934810,
+            "SN": "[School days ed][悲しみの向こうへ]",
+            "FN": "http://data10.5sing.kgimg.com/T1N8ZsBXJT1R47IVrK.mp3",
+            "SK": "fc",
+            "UID": 3934810,
+            "ST": 1,
+            "DD": 0,
+            "user": {
+                "ID": 1747546,
+                "NN": "ophelly",
+                "I": "http://img3.5sing.kgimg.com/force/T1lPh_BTZT1RXrhCrK.jpg"
+            }
+        }
+    ],
+    "count": 103,
+    "code": 0
+}
