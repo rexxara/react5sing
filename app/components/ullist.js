@@ -12,7 +12,7 @@ export default class Stopbtn extends Component {
         this.updateSongList();
     }
     evVpn(e) {
-        console.log(e.target.parentNode.parentNode.dataset.songnum)
+        //console.log(e.target.parentNode.parentNode.dataset.songnum)
         this.props.changeSong(e.target.parentNode.parentNode.dataset.songnum);
     }
     updateSongList() {

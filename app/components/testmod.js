@@ -8,6 +8,8 @@ import Stopbtn from './stopbtn';
 import UlList from './ullist';
 import { songList as NsongList, getloggerproto } from './common';
 import LoginPage from './loginPage';
+import Head from './head'
+import Notlogin from './notlogin'
 var songList = NsongList;
 
 var logger = getloggerproto();
@@ -33,7 +35,10 @@ class Main extends Component {
             currentTrackLen: songList.length,
             currentTrackIndex: 0,
             playStatus: false,
-            isSingle: true
+            isSingle: true,
+            isLogin:true,
+            userId:null,
+            sign:null
         }
         console.log(this.state)
     }
@@ -50,9 +55,20 @@ class Main extends Component {
         }
     }
     componentDidMount() {
-        console.log(this.props.data)
         this.updateSongList()
         this.bindEnd();
+    }
+    componentWillMount() {
+            var jsonState=null;
+        try {
+            jsonState = JSON.parse(fs.readFileSync('./userdata.json', 'utf-8'))
+        } catch (error) {
+            this.setState({isLogin:false});
+            console.log("notlogin")
+            return 0;
+        }
+    this.setState({userId:jsonState.userId})
+    this.setState({sign:jsonState.sign})
     }
     download() {
         var theSongWeDown = this.state.currentTrackIndex;
@@ -65,7 +81,6 @@ class Main extends Component {
         var resUrl = './cache/' + filename + '.' + fileExtension;
         fetch(audio.getElementsByTagName("source")[0].src).then(response => response.buffer())
             .then(data => fs.writeFileSync('./app/cache/' + filename + '.' + fileExtension, data))
-            .then(e => { logger("下载成功") })
             .then(e => { songList[theSongWeDown].src = resUrl })
             .then(e => {
                 var res = '{"songs": [';
@@ -146,10 +161,8 @@ class Main extends Component {
         var nextindex = this.state.currentTrackIndex;
         if (modle) {
             if (modle == 'pre') {
-                logger("←");
                 nextindex = ((this.state.currentTrackIndex + songList.length) - 1) % songList.length;
             } else if (modle == 'next') {
-                logger("→");
                 nextindex = (this.state.currentTrackIndex + 1) % songList.length;
             }
             else {
@@ -182,22 +195,18 @@ class Main extends Component {
         if (this.state.playStatus) {
             this.refs.pos.classList.add("play");
             this.refs.pos.classList.remove("stop");
-            logger("play");
         } else {
             this.refs.pos.classList.add("stop");
             this.refs.pos.classList.remove("play");
-            logger("pause");
         }
     }
     singleOrLoop() {
         this.state.isSingle = !this.state.isSingle;
         isSingleHandle = this.state.isSingle;
         if (isSingleHandle) {
-            this.refs.sol.innerText = 'Single';
-            logger("singleLoop");
+            this.refs.sol.innerText = '单';
         } else {
-            this.refs.sol.innerText = 'Loop';
-            logger("listLoop");
+            this.refs.sol.innerText = '全';
         }
     }
     random() {
@@ -233,33 +242,79 @@ class Main extends Component {
         this.refs.pos.classList.toggle("mainPlayerPlayStop");
         this.refs.blurBg.classList.toggle("mainPlayerBlurBg");
         this.refs.con.classList.toggle("mainPlayerCon");
+        this.refs.sol.classList.toggle("none");
+        this.refs.timeCon.classList.toggle("none");
     }
     play(num) {
         this.state.playStatus = true;
         this.refs.pos.classList.add("play");
         this.refs.pos.classList.remove("stop");
         console.log(num)
+        if(num!==undefined){
         this.refresh(num);
+        }
     }
     showMenu() {
         console.log("menuShow")
         this.refs.menuList.classList.toggle("menuListShow");
     }
-    popLogin(){
+    popLogin() {
         console.log("loginpoped")
         this.refs.loginPage.toggle();
+    }
+    login(sign) {
+        this.setState({userId:sign.userId});
+        this.setState({sign:sign.sign});
+        this.setState({isLogin:true});
+        console.log(this.state)
+        this.refs.loginPage.toggle();
+                 SingSdk.getMySongs({
+                     userId: sign.userId
+                 }, (res) => {
+                     var resSongList=[];
+                     for (let i in res.data) {
+                         if(res.data[i].FN.indexOf("http://")===-1){
+                             res.data[i].FN="http://data.5sing.kgimg.com/"+res.data[i].FN;
+                             console.log(res.data[i].FN)
+                         }
+                         resSongList.push({
+                             name: res.data[i].SN,
+                             src: res.data[i].FN,
+                             artist: res.data[i].user.NN,
+                            img: res.data[i].user.I
+                         })
+                         var modyfiedres={"songs":resSongList}
+                     }
+                     fs.writeFileSync(`./modyfiedSongList.json`, JSON.stringify(modyfiedres), 'utf8');
+                 }, (err) => { console.log(err) });
+    }
+    callPlayerSongList(){
+console.log("come on songlist")
+var ulList = document.getElementById("ulList");
+    ulList.classList.toggle("playerSongList");
+
+}
+    logout(){
+        console.log("imout")
+        fs.writeFileSync(`./userdata.json`, '', 'utf8');
+        this.setState({isLogin:false});
+        this.setState({userId:null});
+        this.setState({sign:null});
     }
     render() {
         let self = this;
         return <div className="scroller">
-            <div onClick={self.showMenu.bind(self)} className="menu"></div>
+            
             <div ref="menuList" className='menuList'>
-            <div className="selects">
-            <button onClick={self.popLogin.bind(self)}>showLoginMenu</button>
-            </div>
-            <div onClick={self.showMenu.bind(self)} className="blank"></div>
+                <div className="selects">
+                {this.state.isLogin?<Head logout={self.logout.bind(self)} myid={this.state.userId}/>:<Notlogin popLogin={self.popLogin.bind(self)} />}
+                    
+                    <LoginPage login={self.login.bind(self)} ref='loginPage' />
+                </div>
+                <div onClick={self.showMenu.bind(self)} className="blank"></div>
             </div>
             <div ref="con" className='mainPlayerCon container'>
+            <div onClick={self.showMenu.bind(self)} className="menu"></div>
                 <h2 ref="mainListTittle" className="mainListTittle">播放列表</h2>
                 <UlList changeSong={self.play.bind(self)} />
                 <div>
@@ -268,7 +323,7 @@ class Main extends Component {
                     <p ref='title' className='title mainPlayerTitle'></p>
                     <div ref='artist' className='artist mainPlayerArtist'></div>
                     <div ref="progressCon" className=' mainPlayerProgressCon progressCon'><div ref="progressBar" className=' mainPlayerProgressBar progressBar'></div></div>
-                    <p className="timeCon"><span className="ct"></span><span className="tt"></span></p>
+                    <p ref="timeCon" className="timeCon none"><span className="ct"></span><span className="tt"></span></p>
                 </div>
                 <div ref="audio"><audio id="audio" controls='controls'></audio></div>
                 <ul className='ctrl'>
@@ -277,11 +332,12 @@ class Main extends Component {
                     <li ref="pos" className="mainPlayerPlayStop stop pos" onClick={self.playOrStop.bind(self)}></li>
                     <li ref="next" className='mainPlayerNext next' onClick={(next) => { self.refresh('next') }}></li>
                     <li className='down' onClick={(ev) => { self.download() }}>↓↓</li>
-                    <li className='sol' ref="sol" onClick={self.singleOrLoop.bind(self)}>Single</li>
+                    <li className='callPlayerSongList' ref="callPlayerSongList" onClick={self.callPlayerSongList.bind(self)}>三</li>
+                    <li className='sol none' ref="sol" onClick={self.singleOrLoop.bind(self)}>单</li>
                 </ul>
                 <div ref="mainPlayerBase" className='mainPlayerBase'></div>
             </div>
-            <LoginPage ref='loginPage'/>
+
         </div>
     }
 }

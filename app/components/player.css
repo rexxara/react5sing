@@ -3,6 +3,7 @@ body{
     padding: 0;
 user-select: none; 
 cursor: default;
+overflow: hidden;
 }
 li{
     width: 50px;
@@ -28,7 +29,7 @@ li{
 -webkit-filter: blur(50px);
 }
 .container{
-    font-family: "Microsoft YaHei","Times New Roman",Georgia,Serif;
+
     overflow-x: hidden;
     position: relative;
     width: 448px;
@@ -112,6 +113,7 @@ ul{
 .scroller{
     width: 432px;
     overflow: hidden;
+    font-family: "Microsoft YaHei","Times New Roman",Georgia,Serif;
 }
 .mainPlayerBlurBg{
     visibility: hidden;
@@ -239,7 +241,24 @@ ul{
     display: none;
 }
 .sol{
-    display: none;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-size: 24px;
+    width: 36px;
+    height: 36px;
+    position: relative;
+    top: -16px;
+    left: 26px;
+}
+.callPlayerSongList{
+    border: 1px solid white;
+    border-radius: 5px;
+    font-size: 24px;
+    width: 36px;
+    height: 36px;
+    position: relative;
+    top: -16px;
+left: -249px;
 }
 .ctrl>li{
 }
@@ -248,15 +267,13 @@ ul{
 }
 
 .menu{
-    position: relative;
-    top: 50px;
-    left: 25px;
+    margin: 30px;
+    float:left;
     z-index: 99;
-    width: 20px;
-    height: 20px;
-    background:url('../img/menu.png');
-    background-size: 20px 20px;
-
+    width: 30px;
+    height: 30px;
+    background: url(../img/menu.png);
+    background-size: 30px 30px;
 }
 .menuList{
     transition:all linear 0.1s;
@@ -275,7 +292,7 @@ ul{
 .selects{
     width: 300px;
     height: 100%;
-    background: #666666;
+    background: #303030;
 }
 .blank{
     width: 132px;
@@ -288,4 +305,77 @@ ul{
 }
 .none{
     display: none!important;
+}
+.tombAvatar{
+    background: #dddddd;
+}
+.avatar{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin: 15px;
+}
+.loginout{
+    padding: 5px;
+    width: 40px;
+    text-align: center;
+    background-color: #7359c0;
+    border-radius: 4px;
+    float: right;
+    margin-top: 70px;
+    margin-right: 20px;
+}
+.userid{
+    margin-top: -20px;
+    position: relative;
+    top: -60px;
+    color: white;
+}
+.confirmlogin{
+background-color: #7359c0;
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    color: white;
+    line-height: 36px;
+}
+.loginInput{
+    margin: auto;
+    display: block;
+    padding: 5px;
+    border: 0.5px solid #3a2d61;
+}
+.loginInput:hover{
+    border: 0.5px solid #7359c0;
+}
+.loginTittle{
+    color: #7359c0;
+    padding-left: 10px;
+}
+.playerSongList{
+    display: block !important;
+height: 433px;
+    width: 449px;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.5)
+}
+.playerSongList>*{
+    opacity: 1 !important;
+}
+.playerSongList>li>div>img{
+    width:64px;
+    height: 64px;
+    float: left;
+}
+.playerSongList>li>div>div{
+    width: 350px;
+}
+.playerSongList>li>div{
+    background: none;
+}
+.playerSongList>li{
+width: 100%;
+height: 64px;
+background: none;
 }

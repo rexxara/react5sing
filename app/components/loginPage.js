@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-
+import SingSdk from '5sing-sdk';
+import fs from 'fs';
 export default class LoginPage extends Component {
     toggle(){
         this.refs.login.classList.toggle("none");
@@ -11,24 +12,28 @@ export default class LoginPage extends Component {
       username: id,
       password: pw
     }, (res) => {
-      this.state.userId = res.userId;
-      this.state.sign = res.sign;
-      fs.writeFileSync(`./userdata.json`, JSON.stringify(this.state), 'utf8');
-      console.log('info', this.state)
+        var resstate={
+            "userId":res.userId,
+            "sign":res.sign
+        }
+        this.props.login(resstate)
+      fs.writeFileSync(`./userdata.json`, JSON.stringify(resstate), 'utf8');
       console.log('res', res)
     }, (err) => {
       console.log(err)
-    });
+    })
   }
   render() {
               let self = this;
     return (
-        <h2 ref="login" className="none">登陆登录</h2>
-          用户名：
-        <input type="text" ref="id"></input><br></br>
-          密码：
-        <input type="password" ref="pw"></input>
-          <input type="button" name="submit" onClick={this.login.bind(this)} value='确认登陆'></input>
+        <div ref="login" className="none">
+        <h4 className="loginTittle">登陆</h4>
+        <input className="loginInput" type="text" placeholder="用户名" ref="id"></input><br></br>
+
+        <input className="loginInput" type="password" placeholder="密码" ref="pw"></input>
+        <br></br>
+          <div className="confirmlogin" onClick={this.login.bind(this)} >确认登陆</div>
+          </div>
     );
   }
 }

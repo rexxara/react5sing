@@ -143,6 +143,7 @@
     "electron": "^1.6.5",
     "electron-builder": "^17.0.1",
     "electron-devtools-installer": "^2.2.0",
+    "electron-packager": "^8.7.0",
     "enzyme": "^2.8.2",
     "eslint": "^3.19.0",
     "eslint-config-airbnb": "^14.1.0",
